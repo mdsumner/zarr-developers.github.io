@@ -21,7 +21,7 @@ export const implementations: Implementation[] = [
     activity: 'https://img.shields.io/github/release-date-pre/Unidata/netcdf-c' },
   { language: 'C++',     name: 'TensorStore',  href: 'https://github.com/google/tensorstore',            v2: true,  v3: true,
     activity: 'https://img.shields.io/github/last-commit/google/tensorstore' },
-  { language: 'C++',     name: 'GDAL',         href: 'https://gdal.org/drivers/raster/zarr.html',        v2: true,  v3: false,
+  { language: 'C++',     name: 'GDAL',         href: 'https://gdal.org/drivers/raster/zarr.html',        v2: true,  v3: true,
     activity: 'https://img.shields.io/github/release-date-pre/OSGeo/gdal' },
   { language: 'C++',     name: 'cpp-zarr',     href: 'https://github.com/abcucberkeley/cpp-zarr',        v2: true,  v3: false,
     activity: 'https://img.shields.io/github/release-date/abcucberkeley/cpp-zarr' },
